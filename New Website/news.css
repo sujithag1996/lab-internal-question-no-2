@@ -1,0 +1,43 @@
+
+#s1 li {
+	float: left;
+	height: 30px;
+	width: 100px;
+}
+#s1 ul {
+	display: inline-block;
+	list-style: none;
+
+}
+h1{
+    text-align: center;
+}
+#pic{
+    float:left;
+
+}
+#s1{
+        border:2px solid black; 
+        clear: both;
+        height: 50px;
+        width: 860px;
+        margin: 0 auto;
+        padding: 1px;
+
+}
+#news{
+    float:right;
+    line-height:2;
+    word-spacing: 5px;
+    width:60%;
+    clear: both;
+    margin-top:-19em;
+    margin-left:10em;
+}
+#c1{
+    margin:20px;
+
+}
+#comment{
+    clear:both;
+}

@@ -1,0 +1,28 @@
+body{
+
+    text-align: center;
+    background-color:grey;
+    background-repeat: no-repeat;
+    color:white;
+}
+#s1 ul {
+	display: inline-block;
+	list-style: none;
+
+}
+#s1 li {
+	float: left;
+	height: 30px;
+	width: 100px;
+}
+#txt{
+    float:right;
+}
+#s1 {
+   
+	clear: both;
+	height: 50px;
+	width: 860px;
+	margin: 0 auto;
+	padding: 1px;
+}
